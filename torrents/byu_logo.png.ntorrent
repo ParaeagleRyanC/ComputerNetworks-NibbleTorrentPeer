@@ -2,7 +2,7 @@
     "torrent_id": "0800428c333c811ea3b6f7a0f01ee31c4ba75f85",
     "tracker_url": "http://lundrigan.byu.edu:8088/announce",
     "file_size": 170345,
-    "file_name": "byu.png",
+    "file_name": "byu_logo.png",
     "piece_size": 4096,
     "pieces": [
         "d5084bc0cbe3d366f0e87216d1f8afa1805c0037",
