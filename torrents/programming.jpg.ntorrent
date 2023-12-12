@@ -1,0 +1,26 @@
+{
+    "torrent_id": "7de199cad4b953ecf0c9b6d8b72612ddb248890a",
+    "tracker_url": "http://lundrigan.byu.edu:8088/announce",
+    "file_size": 68276,
+    "file_name": "programming.jpg",
+    "piece_size": 4096,
+    "pieces": [
+        "0938307ef77f5c8466f97dec40ccae523557257a",
+        "b4e8f28491a71fa01c1f077ebdd4a87fa100540f",
+        "6966dce77970d882cf9359ec34617413c2e1eb97",
+        "10a944728855f47f0149f0066373c485382d8155",
+        "991a8c4f93f7be023ccff88413560dbae84d3bd9",
+        "ed2b12a15144514ea48f5f62c33d0e191e92cda7",
+        "ee13da2ff598b4225878095ab568a9e8d1ccb318",
+        "d19587cf5f93b7b6a1a0b05bd4557beffda27e6f",
+        "651e3c5b33d8bd21fe0abb8987c970d2704193b2",
+        "dd079aa61851dcc936346916c8197279521785cf",
+        "41486f409e256ad46df8b241e313c4f3133e616b",
+        "2d61c7cf182da4ba4e40ef6cdaa05ccaed834ed1",
+        "d926bc2589ec4922b171bdf9cb70414fa5fbd179",
+        "abb4f7d0c0f278342e5750df3d5616e2407c5f75",
+        "3fba137944b98d0c5a97d55f8c854d82c6b17e47",
+        "07b55179c1bdd194d103338bf0613181607d77ff",
+        "01f7b90d66065f6f8bc4e225ed48b23f8766a382"
+    ]
+}

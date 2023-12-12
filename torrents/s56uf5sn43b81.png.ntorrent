@@ -1,0 +1,19 @@
+{
+    "torrent_id": "9e5e5cee673e1d8a4776099659389a3338acdc3f",
+    "tracker_url": "http://lundrigan.byu.edu:8088/announce",
+    "file_size": 39866,
+    "file_name": "s56uf5sn43b81.png",
+    "piece_size": 4096,
+    "pieces": [
+        "f9378fa22d81e6558720dae02a1a7287a7f78c94",
+        "fde3cac3801f8f3bd8c823af89ce33e903522bef",
+        "7ba23f46e93c7fae73e3a7aba35f8adf8a79fe87",
+        "b224341bbd9335653f203965cf81d83ee1732c82",
+        "1bc6abd0b1c1d246f34bab53ad62d1345ba3f4cb",
+        "bf563ef9afa9d8f55fb2a014793b3b3e6484b3e9",
+        "bcf0c9ec8048f37a333820216ff53af1ea859d93",
+        "a648f703b3733a39d9a34bbb665edef5fb1e6e23",
+        "14ec5fb92a45dd6ed83623f4cb3df3fae63031e9",
+        "1f4a382a8c4dcf1c5adafaeac40ff72f4fb50fb9"
+    ]
+}
